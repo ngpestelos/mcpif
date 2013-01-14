@@ -11,7 +11,7 @@ The Magna Carta for Philippine Internet Freedom
 
 ### Part 2. Internet Rights and Freedoms
 
-Chapter III. Internet Rights and Freedoms
+[Chapter III. Internet Rights and Freedoms](https://github.com/ngpestelos/SB-3327/wiki/Chapter-3)
 
 Chapter IV. Compliance with Treaty Obligations and International Conventions
 
