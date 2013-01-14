@@ -1,8 +1,8 @@
 Section 3. Definition of Terms. - When possible, definitions shall be adopted from those established by the International Telecommunications Union (lTU), the Internet Engineering Task Force (IETF), the World Wide Web Consortium (WWWC), and the Internet Corporation for Assigned Numbers and Names (ICANN), and other international and transnational agencies governing the development, use, and staudardization of information and communications technology and the Internet. For purposes of this Act, the following terms shall mean: 
 
-1. Access - The ability and means to communicate with or otherwise interact with a device, computer, system or network, to use resources to handle information, to gain knowledge of the information the device, computer, system, or network contains, or to control device or system components and functions. 
+1. Access - The ability and means to communicate with or otherwise interact with a device, computer, system or network, to use resources to handle information, to gain knowledge of the information the device, computer, system, or network contains, or to control device or system components and functions.
 
-2. Administrator - A person or role with privileged access and control over a network or a multi-user computing environment responsible for the operation and the maintenance of the network or computing environment. 
+2. Administrator - A person or role with privileged access and control over a network or a multi-user computing environment responsible for the operation and the maintenance of the network or computing environment.
 
 2.1. Network administrator - A person or role responsible for the operation and the maintenance of a network. 
 
