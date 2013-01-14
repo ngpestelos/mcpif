@@ -7,7 +7,7 @@ The Magna Carta for Philippine Internet Freedom
 
 [Chapter I. General Provisions](https://github.com/ngpestelos/SB-3327/wiki/Chapter-1)
 
-Chapter II. Definition of Terms
+[Chapter II. Definition of Terms](https://github.com/ngpestelos/SB-3327/wiki/Chapter-2)
 
 ### Part 2. Internet Rights and Freedoms
 
