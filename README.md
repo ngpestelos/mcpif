@@ -5,7 +5,7 @@ The Magna Carta for Philippine Internet Freedom
 
 ### Part 1. Preliminary Provisions
 
-Chapter I. General Provisions
+[Chapter I. General Provisions](https://github.com/ngpestelos/SB-3327/wiki/Chapter-1)
 
 Chapter II. Definition of Terms
 
