@@ -1,7 +1,7 @@
-[Original text of Senate Bill 3327](http://www.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3327)
-
 The Magna Carta for Philippine Internet Freedom
 ===============================================
+
+[Original text of Senate Bill 3327](http://www.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3327)
 
 ### Part 1. Preliminary Provisions
 
@@ -50,3 +50,13 @@ The Magna Carta for Philippine Internet Freedom
 [Chapter XVIII. Repealing Clause](https://github.com/ngpestelos/SB-3327/wiki/Chapter-18)
 
 [Chapter XIX. Effectivity Clause](https://github.com/ngpestelos/SB-3327/wiki/Chapter-19)
+
+*** 
+
+[Original Repo](https://github.com/ngpestelos/SB-3327)
+
+[Nestor Pestelos](https://github.com/ngpestelos)
+
+[jmcyap](https://github.com/jmcyap)
+
+[Buddy](https://github.com/keikun17)
