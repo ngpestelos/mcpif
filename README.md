@@ -15,13 +15,13 @@ The Magna Carta for Philippine Internet Freedom
 
 [Chapter IV. Compliance with Treaty Obligations and International Conventions](https://github.com/ngpestelos/SB-3327/wiki/Chapter-4)
 
-[Chapter V. Duties Related the Promotion of Internet Freedom]((https://github.com/ngpestelos/SB-3327/wiki/Chapter-5)
+[Chapter V. Duties Related the Promotion of Internet Freedom](https://github.com/ngpestelos/SB-3327/wiki/Chapter-5)
 
-[Chapter VI. Regulations for the Promotion ofInternet Freedom]((https://github.com/ngpestelos/SB-3327/wiki/Chapter-6)
+[Chapter VI. Regulations for the Promotion ofInternet Freedom](https://github.com/ngpestelos/SB-3327/wiki/Chapter-6)
 
 ### Part 3. Cybercrime
 
-[Chapter VII. Cybercrime]((https://github.com/ngpestelos/SB-3327/wiki/Chapter-7)
+[Chapter VII. Cybercrime](https://github.com/ngpestelos/SB-3327/wiki/Chapter-7)
 
 [Chapter VIII. Penalties](https://github.com/ngpestelos/SB-3327/wiki/Chapter-8)
 
