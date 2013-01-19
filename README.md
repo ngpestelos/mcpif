@@ -29,7 +29,7 @@ The Magna Carta for Philippine Internet Freedom
 
 ### Part 4. Cyberdefense and National Cybersecurity
 
-[Chapter X. National Cybersecurity and Cyberdefense]((https://github.com/keikun17/SB-3327/wiki/Chapter-10)
+[Chapter X. National Cybersecurity and Cyberdefense](https://github.com/keikun17/SB-3327/wiki/Chapter-10)
 
 [Chapter XI. Counter-Cyberterrorism](https://github.com/keikun17/SB-3327/wiki/Chapter-11)
 
