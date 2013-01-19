@@ -1,5 +1,3 @@
-[Original text of Senate Bill 3327](http://www.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3327)
-
 The Magna Carta for Philippine Internet Freedom
 ===============================================
 
@@ -29,7 +27,7 @@ The Magna Carta for Philippine Internet Freedom
 
 ### Part 4. Cyberdefense and National Cybersecurity
 
-[Chapter X. National Cybersecurity and Cyberdefense](https://github.com/keikun17/SB-3327/wiki/Chapter-10)
+[Chapter X. National Cybersecurity and Cyberdefense](https://github.com/ngpestelos/SB-3327/wiki/Chapter-10)
 
 [Chapter XI. Counter-Cyberterrorism](https://github.com/keikun17/SB-3327/wiki/Chapter-11)
 
