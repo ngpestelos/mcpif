@@ -1,13 +1,13 @@
 The Magna Carta for Philippine Internet Freedom
 ===============================================
 
-[Original text of Senate Bill 3327](http://www.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3327)
+[Original text v2](https://docs.google.com/file/d/0BwuHt0yjELYxanQ3Y2EwaWJwQUU/preview)
 
-### Part 1. Preliminary Provisions
+### Part 1. General Provisions
 
-[Chapter I. General Provisions](https://github.com/ngpestelos/SB-3327/wiki/Chapter-1)
+[Section 1. Short Title](https://github.com/ngpestelos/SB-3327/wiki/Section-1)
 
-[Chapter II. Definition of Terms](https://github.com/ngpestelos/SB-3327/wiki/Chapter-2)
+Section 2. Declaration of Policy
 
 ### Part 2. Internet Rights and Freedoms
 
