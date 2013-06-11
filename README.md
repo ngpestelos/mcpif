@@ -1,5 +1,4 @@
-The Magna Carta for Philippine Internet Freedom
-===============================================
+## The Magna Carta for Philippine Internet Freedom
 
 [Original text v2](https://docs.google.com/file/d/0BwuHt0yjELYxanQ3Y2EwaWJwQUU/preview)
 
