@@ -1,61 +1,165 @@
 ## The Magna Carta for Philippine Internet Freedom
 
-[Original text v2](https://docs.google.com/file/d/0BwuHt0yjELYxanQ3Y2EwaWJwQUU/preview)
-
 ### Part 1. General Provisions
 
-[Section 1. Short Title](https://github.com/ngpestelos/SB-3327/wiki/Section-1)
+Section 1. Short Title
 
 Section 2. Declaration of Policy
 
-### Part 2. Internet Rights and Freedoms
+### Part 2. Definition of Terms
 
-[Chapter III. Internet Rights and Freedoms](https://github.com/ngpestelos/SB-3327/wiki/Chapter-3)
+Section 3. Definition of Terms
 
-[Chapter IV. Compliance with Treaty Obligations and International Conventions](https://github.com/ngpestelos/SB-3327/wiki/Chapter-4)
+### Part 3. Internet Rights and Freedoms
 
-[Chapter V. Duties Related the Promotion of Internet Freedom](https://github.com/ngpestelos/SB-3327/wiki/Chapter-5)
+Section 4. Right of freedom of speech and expression on the Internet
 
-[Chapter VI. Regulations for the Promotion ofInternet Freedom](https://github.com/ngpestelos/SB-3327/wiki/Chapter-6)
+Section 5. Promotion of universal access to the Internet
 
-### Part 3. Cybercrime
+Section 6. Right to privileged access to and control of devices
 
-[Chapter VII. Cybercrime](https://github.com/ngpestelos/SB-3327/wiki/Chapter-7)
+Section 7. Protection of the freedom to create and innovate without permission
 
-[Chapter VIII. Penalties](https://github.com/ngpestelos/SB-3327/wiki/Chapter-8)
+Section 8. Right to privacy of data
 
-[Chapter IX. Cybercrime Law Enforcement and Jurisdiction](https://github.com/ngpestelos/SB-3327/wiki/Chapter-9)
+Section 9. Right to security of data
 
-### Part 4. Cyberdefense and National Cybersecurity
+Section 10. Protection of intellectual property
 
-[Chapter X. National Cybersecurity and Cyberdefense](https://github.com/ngpestelos/SB-3327/wiki/Chapter-10)
+Section 11. Protection of the Internet as an open network
 
-[Chapter XI. Counter-Cyberterrorism](https://github.com/ngpestelos/SB-3327/wiki/Chapter-11)
+Section 12. Promotion of network neutrality
 
-### Part 5. Final Provisions
+Section 13. Promotion of the use of the Internet and information and communications technology for purposes of transparency in governance and freedom of information
 
-[Chapter XII. Implementing Rules and Regulations](https://github.com/ngpestelos/SB-3327/wiki/Chapter-12)
+### Part 4. The Department of Information and Communications Technology
 
-[Chapter XIII. Periodic Review Clause](https://github.com/ngpestelos/SB-3327/wiki/Chapter-13)
+Section 14. The Department of Information and Communications Technology
 
-[Chapter XIV. Transitory Provisions](https://github.com/ngpestelos/SB-3327/wiki/Chapter-14)
+Section 15. Strategic objectives of the DICT
 
-[Chapter XV. Public Information Campaign](https://github.com/ngpestelos/SB-3327/wiki/Chapter-15)
+Section 16. Powers and Functions of the DICT
 
-[Chapter XVI. Appropriations](https://github.com/ngpestelos/SB-3327/wiki/Chapter-16)
+Section 17. Composition of the DICT
 
-[Chapter XVII. Separability Clause](https://github.com/ngpestelos/SB-3327/wiki/Chapter-17)
+Section 18. Secretary of ICT
 
-[Chapter XVIII. Repealing Clause](https://github.com/ngpestelos/SB-3327/wiki/Chapter-18)
+Section 19. Regional Offices
 
-[Chapter XIX. Effectivity Clause](https://github.com/ngpestelos/SB-3327/wiki/Chapter-19)
+Section 20. Periodic Performance Review
 
-*** 
+Section 21. Council of Chief Information Officers
 
-[Original Repo](https://github.com/ngpestelos/SB-3327)
+Section 22. National Telecommunication Commission
 
-[Nestor Pestelos](https://github.com/ngpestelos)
+Section 23. National Data Privacy Commission
 
-[jmcyap](https://github.com/jmcyap)
+Section 24. ICT Legal Affairs Office
 
-[Buddy](https://github.com/keikun17)
+Section 25. Telecommunications Office
+
+Section 26. National Information and Communications Technology Institute
+
+Section 27. Freedom of Information and the Official Gazette
+
+Section 28. Compliance with RA 6656
+
+Section 29. Sectoral and Industry Task Forces
+
+Section 30. Structure and Staffing Pattern
+
+Section 31. Magna Carta for Scientists, Engineers, Researchers and other S & T Personnel in the Government
+
+Section 32. Separation from Service
+
+### Part 5. Regulations for the Promotion of Internet Rights and Freedoms
+
+Section 33. Declaration of Compliance with Treaty Obligations and International Conventions
+
+Section 34. The State as the Primary Duty Bearer
+
+Section 35. Duties of the State Agencies and Instrumentalities
+
+Section 36. Amendments to the Public Telecommunications Policy Act of the Philippines
+
+Section 37. Quality of Service and Network Fair Use
+
+Section 38. Amendments to the Intellectual Property Code of the Philippines
+
+Section 39. Content Fair Use
+
+Section 40. Amendments to the E-Commerce Act
+
+Section 41. Amendments to the Data Privacy Act
+
+Section 42. Repeal of the Cybercrime Prevention Act
+
+### Part 6. Cybercrimes and Other Prohibited Acts
+
+Section 43. Network sabotage
+
+Section 44. Failure to Provide Reasonable Security for Data and Networks
+
+Section 45. Violation of Data Privacy
+
+Section 46. Violation of Data Security
+
+Section 47. Illegal and Arbitrary Seizure
+
+Section 48. Infringement of Intellectual Property Rights
+
+Section 49. Fraud via ICT
+
+Section 50. ICT-Enabled Prostitution and ICT-Enabled Trafficking in Persons
+
+Section 51. ICT-Enabled Child Prostitution and ICT-Enabled Child Trafficking
+
+Section 52. Internet Libel, Hate Speech, Child Pornography, and Other Expression Inimical to the Public Interest
+
+Section 53. Sabotage of critical networks and infrastructure, acts of cyberterrorism, and cyberespionage
+
+### Part 7. National Cybersecurity, Cyberdefense, Counter-Cyberterrorism, and Counter-Cyberespionage
+
+Section 54. Cyberwarfare and National Defense
+
+Section 55. National Cybersecurity and Protection of Government Information and Communications Technology Infrastructure
+
+Section 56. Amendments to the AFP Modernization Act
+
+Section 57. Counter-Cyberterrorism
+
+Section 58. Counter-Cyberespionage
+
+### Part 8. Penalties
+
+Section 59. Applicability of the Revised Penal Code and other special laws
+
+Section 60. Penalties For Specific Violations of The Magna Carta for Philippine Internet Freedom
+
+Section 61. Penalties for Violations of the Magna Carta for Philippine Internet Freedom Affecting Critical Networks and Infrastructure
+
+Section 62. Penalties for Other Violations of the Magna Carta for Philippine Internet Freedom
+
+Section 63. Penalties for Violations of the Magna Carta for Philippine Internet Freedom Committed by a Public Official or Employee
+
+Section 64. Liability Under the Data Privacy Act, the Intellectual Property Code, the Optical Media Act, the Anti-Child Pornography Act of 2009, the Special Protection of Children Against Abuse, Exploitation and Discrimination Act, the Revised Penal Code, and Other Laws
+
+Section 65. Competent law enforcement agencies
+
+Section 66. Cybercrime courts
+
+Section 67. Jurisdiction of cybercrime courts
+
+Section 68. Extraterritorial application of the Magna Carta for Philippine Internet Freedom
+
+### Part 9. Implementing Rules and Regulations
+
+Section 69. General Implementing Rules and Regulations for the Implementation of the Magna Carta for Philippine Internet Freedom
+
+Section 70. Implementing Rules and Regulations for Information and Communications Technology Infrastructure Development
+
+Section 71. Implementing Rules and Regulations for Cybercrime Law Enforcement
+
+Section 72. Implementing Rules and Regulations for Information and Communications Technology Education, Training, and Human Resources
+
+Section 73. Implementing Rules and Regulations for Information and Communications Technology Research and Development
