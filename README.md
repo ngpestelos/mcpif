@@ -4,7 +4,7 @@
 
 Section 1. Short Title
 
-Section 2. Declaration of Policy
+[Section 2. Declaration of Policy](https://github.com/ngpestelos/MCPIF/wiki/Section-2.-Declaration-of-Policy)
 
 ### Part 2. Definition of Terms
 
