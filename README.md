@@ -8,7 +8,7 @@ Section 1. Short Title
 
 ### Part 2. Definition of Terms
 
-Section 3. Definition of Terms
+[Section 3. Definition of Terms](https://github.com/ngpestelos/MCPIF/wiki/Section-3.-Definition-of-Terms)
 
 ### Part 3. Internet Rights and Freedoms
 
