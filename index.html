@@ -9,7 +9,7 @@ slug: index
   {% for p in site.pages | sort:"Section" %}
     {% if p.Section %}
     <tr id="{{ p.slug }}">
-      <td style="padding-right: 10px; font-weight: bold;"><a href=".{{ p.url|replace:"index.html", ""}}">{{ p.Title }}</a></td>
+      <td style="padding-right: 10px; font-weight: bold;"><a href="{{ p.slug }}">{{ p.Title }}</a></td>
     </tr>
     {% endif %}
   {% endfor %}
