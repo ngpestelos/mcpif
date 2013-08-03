@@ -1,12 +1,12 @@
 ---
-Title: MCPIF - Section 2. Declaration of Policy
+Title: Section 2. Declaration of Policy
 Section: 2
 layout: default
 section-title: Declaration of Policy
 slug: mcpif/2
 ---
 
-## Section 2. Declaration of Policy
+### Section 2. Declaration of Policy
 
 (a) The State affirms that all the rights, guarantees, and privileges provided by the Bill of Rights and the Constitution,
 as well as those established under general principles of international law and under treaties and conventions to which the
