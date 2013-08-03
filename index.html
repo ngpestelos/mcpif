@@ -6,8 +6,10 @@ slug: index
 
 <div class="tab-content">
   <table class="table table-striped">
-    <tr>
-      <td style="padding-right: 10px;font-weight: bold;"><a href="#">Title Goes Here</a></td>
+  {% for p in site.pages | sort:"Section" %}
+    <tr id="{{ p.slug }}">
+      <td style="padding-right: 10px; font-weight: bold;"><a href=".{{ p.url|replace:"index.html", ""}}">{{ p.Title }}</a></td>
     </tr>
+  {% endfor %}
   </table>
 </div>
