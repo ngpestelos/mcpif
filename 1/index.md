@@ -3,7 +3,7 @@ Title: Section 1. Short Title
 Section: 1
 layout: default
 section-title: Short Title
-slug: 1
+slug: mcpif/1
 ---
 
 # Section 1. Short Title
