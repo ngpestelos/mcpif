@@ -2,8 +2,6 @@
 Title: Section 3. Definition of Terms
 Section: 3
 layout: default
-section-title: Definition of Terms
-slug: mcpif/3
 ---
 
 ### Section 3. Definition of Terms

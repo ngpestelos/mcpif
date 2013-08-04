@@ -2,8 +2,6 @@
 Title: Section 2. Declaration of Policy
 Section: 2
 layout: default
-section-title: Declaration of Policy
-slug: mcpif/2
 ---
 
 ### Section 2. Declaration of Policy
